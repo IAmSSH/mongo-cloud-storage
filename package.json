@@ -16,7 +16,6 @@
     "method-override": "^3.0.0",
     "mongoose": "^5.7.1",
     "multer": "^1.4.2",
-    "multer-gridfs-storage": "^3.3.0",
-    "mongodb": "https://github.com/mongodb/node-mongodb-native/archive/gridfs-specification.tar.gz"
+    "multer-gridfs-storage": "^3.3.0"
   }
 }
